@@ -1,41 +1,76 @@
----
-layout: default
-title: Home
----
+# Meet Thakkar
 
-# Shubham S. Ghodake
+**PhD Student – Computational and Data Sciences**  
+Indian Institute of Science, Bangalore, India  
 
-## About Me
-
-I am a second-year PhD student at the **Indian Institute of Science (IISc) Bangalore**, where I work at the intersection of mathematics, computation, and quantum information theory. My research focuses on **tensor analysis**, **machine learning**, and **quantum computation**.
-
-### Research Interests
-
-- **Tensor Analysis**: Exploring tensor decompositions and their applications in data science and quantum systems
-- **Machine Learning**: Developing algorithms that leverage tensor methods for efficient learning
-- **Quantum Computation**: Investigating quantum algorithms and quantum machine learning approaches
-
-### Education
-
-**PhD in [Your Department]** (2023 - Present)  
-Indian Institute of Science (IISc), Bangalore  
-*Advisor: [Your Advisor's Name]*
-
-**[Your Master's/Bachelor's Degree]** ([Year])  
-[Your Previous Institution]
-
-### News & Updates
-
-- **[Date]**: Presented at [Conference/Seminar Name]
-- **[Date]**: Paper accepted at [Conference/Journal Name]
-- **[Date]**: Started PhD at IISc Bangalore
-
-### Contact
-
-**Email**: [sgshubham@iisc.ac.in](mailto:sgshubham@iisc.ac.in)  
-**GitHub**: [Zeus9637353238](https://github.com/Zeus9637353238)  
-**LinkedIn**: [Shubham Ghodake](https://linkedin.com/in/shubham-ghodake-2b7a221b1)
+📧 [meetjitent@iisc.ac.in](mailto:meetjitent@iisc.ac.in)  
+🔗 [GitHub](https://github.com/Thakkar-meet) | [LinkedIn](https://www.linkedin.com/in/meet-thakkar-b720a8201/)
 
 ---
 
-*Last updated: October 2024*
+## 🧠 Education
+
+**PhD in Engineering (Computational and Data Science)**  
+*Indian Institute of Science, Bangalore*  
+**2024 – Present**  
+- Thesis: *Scientific AI & ML* (tentative)  
+- Supervisor: **Dr. Ratikanta Behera**
+
+**Bachelor of Technology in Engineering Physics**  
+*Indian Institute of Technology Roorkee, Uttarakhand*  
+**2020 – 2024**  
+- CGPA: **8.312 / 10**
+
+**Higher Secondary Examination**  
+*Shree Narayan Guru Vidyalaya, Ahmedabad, Gujarat*  
+**2020** – Percentage: **81.2%**
+
+**Secondary Examination**  
+*Lotus School, Ahmedabad, Gujarat*  
+**2018** – Percentage: **86.5%**
+
+---
+
+## 🔬 Research Experience
+
+**Indian Institute of Technology Roorkee**  
+**May 2023 – May 2024**  
+**Project:** *Recurrent Quantum Neural Network (RQNN)*  
+- Developed a Quantum Machine Learning algorithm that employs the Schrödinger Wave Equation as its activation function.  
+- Advisor: **Prof. Tharun Kumar Reddy Bollu**
+
+---
+
+## 💻 Projects
+
+**Neural Style Transfer**  
+*Nov 2023 – Jan 2024*  
+- Combined the content of one image with the artistic style of another using transfer learning.  
+- Implemented with **VGG19** and a custom CNN for feature extraction.
+
+**Colorizing Images using Conditional GANs**  
+*Jan 2023 – Apr 2023*  
+- Implemented the **pix2pix** paper for image-to-image translation using conditional GANs.  
+- Focused on realistic image colorization.
+
+**Hand Gesture Recognition**  
+*Aug 2022 – Nov 2022*  
+- Built a real-time system using computer vision for gesture-based control of system commands (e.g., brightness, volume).
+
+---
+
+## 🏅 Fellowships & Awards
+
+**2023 – Dean’s Letter of Appreciation**  
+Awarded by IIT Roorkee to undergraduates with the highest CGPA improvement during the academic year.
+
+---
+
+## 🎓 Academic Achievements
+
+- **JEE Advanced 2020:** All India Rank **2717**  
+- **JEE Main 2020:** Central Rank List **532**
+
+---
+
+> “Exploring the intersection of Physics and Machine Learning to build intelligent models for scientific discovery.”
