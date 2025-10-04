@@ -21,16 +21,7 @@ Indian Institute of Science, Bangalore, India
 *Indian Institute of Technology Roorkee, Uttarakhand*  
 **2020 – 2024**  
 - CGPA: **8.312 / 10**
----
-
-## 🔬 Research Experience
-
-**Indian Institute of Technology Roorkee**  
-**May 2023 – May 2024**  
-**Project:** *Recurrent Quantum Neural Network (RQNN)*  
-- Developed a Quantum Machine Learning algorithm that employs the Schrödinger Wave Equation as its activation function.  
-- Advisor: **Prof. Tharun Kumar Reddy Bollu**
-
+  
 ---
 
 ## 💻 Projects
