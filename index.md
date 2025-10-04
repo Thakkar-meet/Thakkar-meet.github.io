@@ -15,20 +15,12 @@ Indian Institute of Science, Bangalore, India
 **2024 – Present**  
 - Thesis: *Scientific AI & ML* (tentative)  
 - Supervisor: **Dr. Ratikanta Behera**
+- CGPA: **8.9 / 10**
 
 **Bachelor of Technology in Engineering Physics**  
 *Indian Institute of Technology Roorkee, Uttarakhand*  
 **2020 – 2024**  
 - CGPA: **8.312 / 10**
-
-**Higher Secondary Examination**  
-*Shree Narayan Guru Vidyalaya, Ahmedabad, Gujarat*  
-**2020** – Percentage: **81.2%**
-
-**Secondary Examination**  
-*Lotus School, Ahmedabad, Gujarat*  
-**2018** – Percentage: **86.5%**
-
 ---
 
 ## 🔬 Research Experience
@@ -73,4 +65,3 @@ Awarded by IIT Roorkee to undergraduates with the highest CGPA improvement durin
 
 ---
 
-> “Exploring the intersection of Physics and Machine Learning to build intelligent models for scientific discovery.”
