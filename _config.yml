@@ -1,7 +1,7 @@
-title: "Shubham S. Ghodake"
-description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Quantum Computation"
+title: "Meet Thakkar"
+description: "2nd Year PhD Student at IISc Bangalore | Application of Diffusion Models"
 remote_theme: pages-themes/cayman@v0.2.0
-url: "https://Zeus9637353238.github.io"
+url: "https://thakkar-meet.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -12,9 +12,9 @@ plugins:
   - jekyll-remote-theme
 
 # Social links
-github_username: Zeus9637353238
-linkedin_username: shubham-ghodake-2b7a221b1
-email: sgshubham@iisc.ac.in
+github_username: Thakkar-meet
+linkedin_username: meet-thakkar-b720a8201
+email: meetjitent@iisc.ac.in
 
 # Include custom header
 include:
@@ -26,3 +26,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
