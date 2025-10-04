@@ -1,0 +1,28 @@
+title: "Shubham S. Ghodake"
+description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Quantum Computation"
+remote_theme: pages-themes/cayman@v0.2.0
+url: "https://Zeus9637353238.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Social links
+github_username: Zeus9637353238
+linkedin_username: shubham-ghodake-2b7a221b1
+email: sgshubham@iisc.ac.in
+
+# Include custom header
+include:
+  - _includes
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
