@@ -3,107 +3,36 @@ layout: default
 title: Research & Projects
 ---
 
-# Research & Projects
+# Research Projects
 
 ## Current Research
 
-### PhD Research
-**Thesis Topic**: [Your Thesis Title]  
-**Advisor**: [Your Advisor's Name]  
-**Duration**: 2023 - Present
-
-My doctoral research explores the intersection of tensor methods, machine learning, and quantum computation. I am particularly interested in:
-
-- Developing efficient tensor decomposition algorithms for quantum state tomography
-- Applying machine learning techniques to quantum system simulation
-- Investigating tensor network methods for quantum many-body systems
-
----
-
-## Publications
-
-### Conference Papers
-
-1. **[Paper Title]**  
-   *Authors*  
-   Conference Name, Year  
-   [[PDF]](#) [[arXiv]](#) [[Code]](#)
-
-2. **[Paper Title]**  
-   *Authors*  
-   Conference Name, Year  
-   [[PDF]](#) [[arXiv]](#)
-
-### Journal Articles
-
-1. **[Paper Title]**  
-   *Authors*  
-   Journal Name, Vol(Issue), Year  
-   [[PDF]](#) [[DOI]](#)
-
-### Preprints
-
-1. **[Paper Title]**  
-   *Authors*  
-   arXiv:XXXX.XXXXX, Year  
-   [[arXiv]](#)
+**Improving Varying Parameter ZNN for Solving Linear Matrix Equations**  
+*June 2025 – Ongoing*  
+- Introduced a hyperbolic term into the ZNN design formula to improve the convergence speed.  
+- Applied the proposed method to solve **Sylvester**, **Stein**, and **Lyapunov** equations effectively.  
 
 ---
 
 ## Projects
 
-### Project 1: [Project Name]
-**Duration**: [Start Date] - [End Date/Present]  
-**Technologies**: Python, TensorFlow, PyTorch, Qiskit
+**Modified Semantic Chunking in RAG**  
+*April 2024 – May 2024*  
+- Integrated **BM25** with signal processing techniques to achieve more consistent and semantically meaningful chunking in Retrieval-Augmented Generation (RAG) pipelines.
 
-Description of your project. What problem does it solve? What methods did you use? What were the key findings or results?
+**Neural Style Transfer**  
+*November 2023 – January 2024*  
+- Combined the content of one image with the artistic style of another using transfer learning techniques.  
+- Implemented the model using **VGG19** and a custom **CNN** for multi-level feature extraction and reconstruction.
 
-[[GitHub]](#) [[Demo]](#) [[Report]](#)
+**Colorizing Images using Conditional GANs**  
+*January 2023 – April 2023*  
+- Implemented the **pix2pix** architecture for image-to-image translation using conditional GANs.  
+- Focused on producing realistic and visually coherent colorizations of grayscale images.
 
-### Project 2: [Project Name]
-**Duration**: [Start Date] - [End Date/Present]  
-**Technologies**: Python, NumPy, SciPy
-
-Description of your project.
-
-[[GitHub]](#) [[Report]](#)
-
-### Project 3: [Project Name]
-**Duration**: [Start Date] - [End Date]  
-**Technologies**: [List technologies]
-
-Description of your project.
-
-[[GitHub]](#)
-
----
-
-## Presentations & Talks
-
-- **[Talk Title]**, [Venue/Conference], [Location], [Date]
-- **[Poster Title]**, [Conference Name], [Location], [Date]
-- **[Seminar Title]**, [Department/Institute], [Date]
-
----
-
-## Research Experience
-
-### Research Intern
-**[Organization/Lab Name]** | [Location] | [Duration]
-
-Brief description of your research work during this internship.
-
-### Summer Research Fellow
-**[Organization/Lab Name]** | [Location] | [Duration]
-
-Brief description of your research work.
-
----
-
-## Collaborators
-
-- [Collaborator 1], [Institution]
-- [Collaborator 2], [Institution]
-- [Collaborator 3], [Institution]
+**Hand Gesture Recognition**  
+*August 2022 – November 2022*  
+- Developed a real-time computer vision system for recognizing hand gestures to control system functions such as brightness and volume.  
+- Implemented using **OpenCV** and **MediaPipe**, focusing on speed and accuracy in dynamic environments.
 
 ---
