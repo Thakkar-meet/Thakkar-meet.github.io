@@ -8,7 +8,7 @@ Indian Institute of Science, Bangalore, India
 
 ---
 
-## 🧠 Education
+## Education
 
 **PhD in Engineering (Computational and Data Science)**  
 *Indian Institute of Science, Bangalore*  
@@ -24,14 +24,14 @@ Indian Institute of Science, Bangalore, India
 
 ---
 
-## 🏅 Fellowships & Awards
+## Fellowships & Awards
 
 **2023 – Dean’s Letter of Appreciation**  
 Awarded by IIT Roorkee to undergraduates with the highest CGPA improvement during the academic year.
 
 ---
 
-## 🎓 Academic Achievements
+## Academic Achievements
 
 - **JEE Advanced 2020:** All India Rank **2717**  
 - **JEE Main 2020:** Central Rank List **532**
