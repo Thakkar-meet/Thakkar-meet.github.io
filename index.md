@@ -21,24 +21,6 @@ Indian Institute of Science, Bangalore, India
 *Indian Institute of Technology Roorkee, Uttarakhand*  
 **2020 – 2024**  
 - CGPA: **8.312 / 10**
-  
----
-
-## 💻 Projects
-
-**Neural Style Transfer**  
-*Nov 2023 – Jan 2024*  
-- Combined the content of one image with the artistic style of another using transfer learning.  
-- Implemented with **VGG19** and a custom CNN for feature extraction.
-
-**Colorizing Images using Conditional GANs**  
-*Jan 2023 – Apr 2023*  
-- Implemented the **pix2pix** paper for image-to-image translation using conditional GANs.  
-- Focused on realistic image colorization.
-
-**Hand Gesture Recognition**  
-*Aug 2022 – Nov 2022*  
-- Built a real-time system using computer vision for gesture-based control of system commands (e.g., brightness, volume).
 
 ---
 
